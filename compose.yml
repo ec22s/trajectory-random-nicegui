@@ -1,0 +1,13 @@
+services:
+  service-nicegui:
+    image: image-nicegui
+    restart: always
+    build:
+      context: ./nicegui
+    container_name: container-nicegui
+    ports:
+      - 8888:8080
+    working_dir: "/app"
+    volumes:
+      - ./nicegui:/app
+    command: python /app/main.py
