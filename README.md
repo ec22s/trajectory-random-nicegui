@@ -34,12 +34,12 @@
 
   - 点の位置はそのままで軌跡の繋げ方を変更
 
-  - 軌跡の経緯度情報表示
+  - 軌跡の経緯度情報表示（クリップボードにコピー可）
 
-    <img height="192" src="https://github.com/user-attachments/assets/54770e66-2fcf-44fc-bf68-c2c55a5c967f" />
-    　<img height="192" src="https://github.com/user-attachments/assets/84bb31a5-0710-4855-b04b-ab24de75d991" />
-    　<img height="192" src="https://github.com/user-attachments/assets/aff4d273-3428-4539-b9c2-7cd3c6a0e867" />
-    　<img height="192" src="https://github.com/user-attachments/assets/d8f8b78c-27c5-41f4-ae6b-967ea1bbb7ea" />
+    <img height="128" src="https://github.com/user-attachments/assets/54770e66-2fcf-44fc-bf68-c2c55a5c967f" />
+    　<img height="128" src="https://github.com/user-attachments/assets/84bb31a5-0710-4855-b04b-ab24de75d991" />
+    　<img height="128" src="https://github.com/user-attachments/assets/aff4d273-3428-4539-b9c2-7cd3c6a0e867" />
+    　<img height="128" src="https://github.com/user-attachments/assets/d8f8b78c-27c5-41f4-ae6b-967ea1bbb7ea" />
 
 <br>
 
