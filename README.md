@@ -1,5 +1,7 @@
 # trajectory-random-nicegui
 
+<img height="256" src="https://github.com/user-attachments/assets/8796a654-1735-4c09-b085-7186860a4c55" />
+
 - PythonのWebフレームワーク `NiceGUI` でランダムな軌跡を `leaflet` 地図に描画
 
 - Docker compose 使用
@@ -12,7 +14,7 @@
 
   - `Map` , `Polyline` の二つのクラスを作成
 
-  - 軌跡の実データをサクッと表示する土台になる
+  - 既存の軌跡データをサクッと表示する土台にもなる
 
 <br>
 
@@ -22,7 +24,7 @@
 
 - 軌跡は一定の経緯度範囲で作成したランダムな点を繋げたもの
 
-- 軌跡の範囲に地図が連動して移動・ズームする
+- 軌跡の描画時、その範囲に地図が自動ズーム・移動する
 
 - 地図上に以下のボタンあり
 
@@ -33,6 +35,11 @@
   - 点の位置はそのままで軌跡の繋げ方を変更
 
   - 軌跡の経緯度情報表示
+
+    <img height="192" src="https://github.com/user-attachments/assets/54770e66-2fcf-44fc-bf68-c2c55a5c967f" />
+    　<img height="192" src="https://github.com/user-attachments/assets/84bb31a5-0710-4855-b04b-ab24de75d991" />
+    　<img height="192" src="https://github.com/user-attachments/assets/aff4d273-3428-4539-b9c2-7cd3c6a0e867" />
+    　<img height="192" src="https://github.com/user-attachments/assets/d8f8b78c-27c5-41f4-ae6b-967ea1bbb7ea" />
 
 <br>
 
