@@ -79,6 +79,10 @@
 
 - Docker Compose version v5.1.0
 
+- Chrome 146.0
+
+- Firefox 149.0
+
 <br>
 
 ### 補足：軌跡の繋げ方について
